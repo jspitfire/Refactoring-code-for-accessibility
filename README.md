@@ -1,7 +1,7 @@
 # **Refactoring Code** (for accessibility)
 Example of code refactoring for accessibility of a marketing agency's website
 
-##User Story
+## User Story
 
 ```
 AS A marketing agency
@@ -9,7 +9,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-##Acceptance criteria - changes required
+## Acceptance criteria - changes required
 
 ```
 Semantic HTML elements can be found throughout the source code
