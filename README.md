@@ -1,4 +1,4 @@
-# **Refactoring Code** (for accessibility)
+# * *Refactoring Code* * (for accessibility)
 Example of code refactoring for accessibility of a marketing agency's website
 
 ##User Story
